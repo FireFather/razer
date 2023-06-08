@@ -54,7 +54,7 @@
     <ClCompile Include="threads.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="time.cpp">
+    <ClCompile Include="timeman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="uci.cpp">
@@ -119,7 +119,7 @@
     <ClInclude Include="threads.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="time.h">
+    <ClInclude Include="timeman.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="uci.h">

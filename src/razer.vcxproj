@@ -128,7 +128,7 @@
     <ClCompile Include="perft.cpp" />
     <ClCompile Include="search.cpp" />
     <ClCompile Include="threads.cpp" />
-    <ClCompile Include="time.cpp" />
+    <ClCompile Include="timeman.cpp" />
     <ClCompile Include="uci.cpp" />
     <ClCompile Include="zobrist.cpp" />
   </ItemGroup>
@@ -151,7 +151,7 @@
     <ClInclude Include="rook_attacks.h" />
     <ClInclude Include="search.h" />
     <ClInclude Include="threads.h" />
-    <ClInclude Include="time.h" />
+    <ClInclude Include="timeman.h" />
     <ClInclude Include="uci.h" />
     <ClInclude Include="zobrist.h" />
   </ItemGroup>

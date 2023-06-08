@@ -9,7 +9,7 @@
 #include "hash.h"
 #include "movegen.h"
 #include "threads.h"
-#include "time.h"
+#include "timeman.h"
 #include "uci.h"
 
 using namespace Search;

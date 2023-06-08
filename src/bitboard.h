@@ -127,7 +127,7 @@ public:
 	template <int Pt>
 	[[nodiscard]] uint64_t attacks_from(int from) const;
 	template <int Pt>
-	[[nodiscard]] [[nodiscard]] [[nodiscard]] [[nodiscard]] uint64_t attacks_from(int from, int color) const;
+	[[nodiscard]] uint64_t attacks_from(int from, int color) const;
 
 	template <int Pt>
 	[[nodiscard]] static uint64_t attacks_from(int sq, uint64_t occ);
