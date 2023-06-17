@@ -1,5 +1,5 @@
 # razer
-is a fast & highly optimized UCI chess engine 
+*a fast & highly optimized UCI chess engine**
 
 It's loosely based on Stuckfish https://github.com/MaxCarlson/StuckFish by Max Carlson
 
